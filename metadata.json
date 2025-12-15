@@ -1,0 +1,5 @@
+{
+  "name": "ChefNot",
+  "description": "一款现代化的离线优先菜谱管理应用，支持 PDF 导出和 AI 智能菜谱生成。",
+  "requestFramePermissions": []
+}
